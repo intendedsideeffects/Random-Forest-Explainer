@@ -9,6 +9,7 @@ This project explores the logic behind a Random Forest classifier using the UCI 
 The visualization allows users to follow mushrooms through individual trees and see how multiple tree predictions combine into a final classification.
 
 ### [Explore the interactive visualization on Tableau Public](https://public.tableau.com/app/profile/janina.grauel/viz/RandomForestV2/RandomForest)
+![Inside a Random Forest interactive visualization](random_forest_explainer.png)
 
 ## How it works
 
